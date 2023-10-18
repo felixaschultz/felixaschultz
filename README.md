@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I´m a Frontend developer, with a passion for Full Stack development.
+My passion is working on SaaS projects for developing new skills and languages.
+I´m currently working on an SaaS Solutions, for my cookie banner so website with my plugin [*GDPR Cookiebanner*](https://github.com/felixaschultz/intastellar-gdpr-cookiebanner)
+so that Website owners who has implemented the solution can see the status of the banner on there Website.
+
+I´m currently studying Webdevelopment, and getting to know ReactJS more.
+I´m also working on some small Webapps and PWA´s for fun.
 
 <!--
 **felixaschultz/felixaschultz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
