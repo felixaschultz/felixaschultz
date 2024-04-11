@@ -12,14 +12,14 @@ Currently studying <a href="https://www.eaaa.dk" target="_blank">Webdevelopment<
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<table>
+<table style="border: none;">
   <tr style="border:none;">
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact&theme=tokyonight" alt="Top Langs">
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=felixaschultz&show_icons=true&theme=tokyonight" alt="Felix´s GitHub stats">
       </a>
