@@ -8,7 +8,7 @@ Currently studying <a href="https://www.eaaa.dk" target="_blank">Webdevelopment<
 [![Linkedin: felixaschultz](https://img.shields.io/badge/-felixaschultz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-schultz/)](https://www.linkedin.com/in/felixaschultz/)
 [![GitHub felixaschultz](https://img.shields.io/github/followers/felixaschultz?label=follow&style=social)](https://www.github.com/felixaschultz)
 
-| [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixaschultz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixaschultz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 
 ---
