@@ -1,6 +1,8 @@
 <h2>Hi I´m Felix A. Schultz</h2>
 <p><em>Fullstack Developer</em> with focus on <em>Frontend</em>.</p>
-
+<p>
+Currently studying <a href="https://www.eaaa.dk" target="_blank">Webdevelopment</a> at <a href="https://www.eaaa.dk" target="_blank">Business Academy Aarhus</a> in Denmark.
+</p>
 <p>Fullstack developer for <a href="https://www.bicycleferry.com" target="_blank">Bicycle Ferry across Flensburger Fjord</a></p>
 
 [![Linkedin: felixaschultz](https://img.shields.io/badge/-felixaschultz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-schultz/)](https://www.linkedin.com/in/felixaschultz/)
@@ -29,3 +31,5 @@ Currently on the look out for an <b>Internship</b> inside the <b>Frontend</b> de
 - [Felix Schultz](https://www.felix-schultz.net) - My personal portfolio
 - [Cookie Consent Banner](https://github.com/felixaschultz/intastellar-gdpr-cookiebanner) - A simple cookie consent banner
 - [Devhelp.dk](https://www.devhelp.dk) - A website for developers to help each other out and share knowledge.
+
+---
