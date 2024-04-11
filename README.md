@@ -6,7 +6,9 @@
 [![Linkedin: felixaschultz](https://img.shields.io/badge/-felixaschultz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-schultz/)](https://www.linkedin.com/in/felixaschultz/)
 [![GitHub felixaschultz](https://img.shields.io/github/followers/felixaschultz?label=follow&style=social)](https://www.github.com/felixaschultz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### A little bit more about me...
 
