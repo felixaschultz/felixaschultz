@@ -12,8 +12,8 @@ Currently studying <a href="https://www.eaaa.dk" target="_blank">Webdevelopment<
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<table style="border:none;">
-  <tr>
+<table>
+  <tr style="border:none;">
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact&theme=tokyonight" alt="Top Langs">
