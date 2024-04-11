@@ -8,8 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaschultz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 ### A little bit more about me...
 
 ```javascript
@@ -24,3 +22,10 @@ const felix = {
 Currently on the look out for an <b>Internship</b> inside the <b>Frontend</b> development area.
 
 ---
+
+### Some of my projects
+
+- [Bicycle Ferry](https://www.bicycleferry.com) - A ferry that takes you and your bike across the Flensburger Fjord
+- [Felix Schultz](https://www.felix-schultz.net) - My personal portfolio
+- [Cookie Consent Banner](https://github.com/felixaschultz/intastellar-gdpr-cookiebanner) - A simple cookie consent banner
+- [Devhelp.dk](https://www.devhelp.dk) - A website for developers to help each other out and share knowledge.
