@@ -14,7 +14,7 @@ const felix = {
   code: [Javascript, PHP, HTML, CSS],
   tools: [React, Node, Remix, Git],
   architecture: ["microservices", "Saas", "SPA"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 Currently on the look out for an <b>Internship</b> inside the <b>Frontend</b> development area.
