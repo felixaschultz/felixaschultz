@@ -14,7 +14,7 @@ Currently studying <a href="https://www.eaaa.dk" target="_blank">Webdevelopment<
 
 [![Felix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felixaschultz&bg_color=20232a&color=61dafb&line=61dafb&point=403d3d&area=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-This is my personal GitHub profile where I share my projects and code snippets. I am always open for new projects and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/felix-schultz/).
+This is my personal GitHub profile where I share my projects and code snippets. I am always open for new projects and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/felixaschultz/).
 
 ---
 
