@@ -38,6 +38,6 @@ Currently on the look out for an <b>Internship</b> inside the <b>Frontend</b> de
 - [Bicycle Ferry](https://www.bicycleferry.com) - A ferry that takes you and your bike across the Flensburger Fjord
 - [Felix Schultz](https://www.felix-schultz.net) - My personal portfolio
 - [Cookie Consent Banner](https://github.com/felixaschultz/intastellar-gdpr-cookiebanner) - A simple cookie consent banner
-- [Devhelp.dk](https://www.devhelp.dk) - A website for developers to help each other out and share knowledge.
+- [Devhelp.dk](https://github.com/felixaschultz/devhelp.dk) - A website for developers to help each other out and share knowledge.
 
 ---
