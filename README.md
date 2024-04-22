@@ -1,4 +1,4 @@
-<h2>Hi I´m Felix A. Schultz</h2>
+<h2>Hi, I´m Felix A. Schultz</h2>
 <p><em>Fullstack Developer</em> with focus on <em>Frontend</em>.</p>
 <p>
 Currently studying <a href="https://www.eaaa.dk" target="_blank">Webdevelopment</a> at <a href="https://www.eaaa.dk" target="_blank">Business Academy Aarhus</a> in Denmark.
