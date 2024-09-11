@@ -24,12 +24,18 @@ This is my personal GitHub profile where I share my projects and code snippets. 
 const felix = {
   pronouns: "he" | "him",
   code: [Javascript, PHP, HTML, CSS],
-  tools: [React, Node, Remix, Git],
+  tools: [React, Node, Remix, Git, ReactNative],
   architecture: ["microservices", "Saas", "SPA"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  hoobies: [
+    'Webdevelopment',
+    'Photography'
+    'Film / Movie'
+    'Flying with drone'
+  ]
 }
 ```
-Currently on the look out for an <b>Internship</b> inside the <b>Frontend</b> development area.
+Currently developing an app in ReactNative while learning ReactNative and app development.
+Getting my Bachelors Degree in Webdevelopment.
 
 ---
 
